@@ -3,23 +3,6 @@
  * of items. A vendor carries out sales transactions.
  */
 
-/**
- * HONOR PLEDGE: All work here is honestly obtained and is my own.  Signed:  Aman Haileyesus
- * @author haileyesusa
- * Date of Completion:  11/4/2022
- * Assignment:  Case Study Ch10:  SnackBar and Vendor.java
- * 
- * Attribution:  Tommy Latham
- * 
- * General Description:   Implements a vendor that sells one kind
- *						  of items. A vendor carries out sales transactions.
- * 
- * 
- * Advanced:  
- * 				
- * Errata: 
- *
- */
 public class Vendor
 {
 	//CLASS VARIABLES AND METHODS (STATIC)
